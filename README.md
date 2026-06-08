@@ -27,3 +27,13 @@ QiYu 是一个面向 Shopee 卖家的 AI 智能运营平台。通过 AI 自动�
 ---
 
 *QiYu — 让 Shopee 运营更智能*
+
+---
+
+## 反馈与建议
+
+如果你有功能建议或遇到问题，欢迎提交 Issue：
+
+- [提交功能建议](https://github.com/qy-info/qiyu-platform/issues/new?template=feature_request.md)
+- [报告问题](https://github.com/qy-info/qiyu-platform/issues/new?template=bug_report.md)
+- [其他反馈](https://github.com/qy-info/qiyu-platform/issues/new)
